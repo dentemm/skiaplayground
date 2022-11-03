@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/dentemm/skiaplayground/compare/v1.0.0...v1.1.0) (2022-11-03)
+
+
+### Features
+
+* **random topic name:** genZ mode ([553e73e](https://github.com/dentemm/skiaplayground/commit/553e73e0fdc2d1fef0f2dec7770d9b2f570f0a22))
+
 ## 1.0.0 (2022-11-03)
 
 
