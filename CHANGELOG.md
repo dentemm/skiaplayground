@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/dentemm/skiaplayground/compare/v1.1.0...v1.1.1) (2022-11-03)
+
+
+### Bug Fixes
+
+* super important hotfix ([159d682](https://github.com/dentemm/skiaplayground/commit/159d6828c75ee56565d6fdc07b4a95203886305b))
+
 ## [1.1.0](https://github.com/dentemm/skiaplayground/compare/v1.0.0...v1.1.0) (2022-11-03)
 
 
