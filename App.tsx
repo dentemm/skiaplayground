@@ -12,6 +12,7 @@ import React from 'react';
 import {SafeAreaView} from 'react-native';
 
 import Demo1 from './src/demos/Demo1';
+import Demo2 from './src/demos/Demo2';
 
 const App = () => {
   return (
